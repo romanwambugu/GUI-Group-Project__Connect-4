@@ -1,5 +1,5 @@
 # Learning-PySide6
 
-Group for PySide6:
+Group for Project:
 - Roman Wambugu
 - Isaiah Hernandez
