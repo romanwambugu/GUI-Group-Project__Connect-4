@@ -1,5 +1,14 @@
-# Learning-PySide6
+# Connect 4 Game
 
-Group for Project:
+Purpose:
+- Learning-PySide6
+
+Group:
 - Roman Wambugu
 - Isaiah Hernandez
+
+## Introduction
+...
+
+## How to Play
+...
