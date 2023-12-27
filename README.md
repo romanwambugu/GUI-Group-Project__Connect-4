@@ -1,7 +1,7 @@
 # Connect 4 Game
 
 Purpose:
-- Learning-PySide6
+- Learning how to use PySide6
 
 Group:
 - Roman Wambugu
